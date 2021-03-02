@@ -1,3 +1,12 @@
+Tesla Website Main Page Clone (ReactJS)
+
+
+![Tesla1](https://user-images.githubusercontent.com/42185328/109636077-34ebac00-7b5c-11eb-9594-ad1ba26b6aec.png)
+
+
+![Tesla2](https://user-images.githubusercontent.com/42185328/109636086-374e0600-7b5c-11eb-8dff-565488f69bdc.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
